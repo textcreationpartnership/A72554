@@ -1,0 +1,440 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A voyage into Nevv England begun in 1623. and ended in 1624 Performed by Christopher Levett, his Maiesties woodward of Somerset-shire, and one of the Councell of New-England.</title>
+            <author>Levett, Christopher, 1586-1630.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1624</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 68 KB of XML-encoded text transcribed from 24 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A72554</idno>
+            <idno type="STC">STC 15553.5</idno>
+            <idno type="STC">ESTC S124914</idno>
+            <idno type="EEBO-CITATION">99900463</idno>
+            <idno type="PROQUEST">99900463</idno>
+            <idno type="VID">173250</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A72554)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 173250)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 2025:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A voyage into Nevv England begun in 1623. and ended in 1624 Performed by Christopher Levett, his Maiesties woodward of Somerset-shire, and one of the Councell of New-England.</title>
+                  <author>Levett, Christopher, 1586-1630.</author>
+               </titleStmt>
+               <extent>[8], 38, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by William Iones,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>August 21. 1624.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The first leaf and the last leaf are blank.</note>
+                  <note>Running title reads: Leuetts voyage to New England.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Indians of North America --  Maine --  Early works to 1800.</term>
+               <term>Maine --  Description and travel --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-11</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2009-11</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:173250:1" rendition="simple:additions"/>
+            <p>A VOYAGE INTO NEW ENGLAND Begun in 1623. and ended in 1624.</p>
+            <p>Performed by CHRISTOPHER LEVETT, his Maieſties Woodward of <hi>Somerſet-ſhire,</hi> and one of the Councell of New-England.</p>
+            <figure>
+               <head>Yorkes Bonauen<g ref="char:EOLhyphen"/>ture.</head>
+               <figDesc>Ship</figDesc>
+            </figure>
+            <p>LONDON, Printed by WILLIAM IONES. <hi>Auguſt</hi> 21. 1624</p>
+            <pb facs="tcp:173250:2" rendition="simple:additions"/>
+            <pb facs="tcp:173250:2" rendition="simple:additions"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:173250:3" rendition="simple:additions"/>
+            <pb facs="tcp:173250:3"/>
+            <head>TO THE RIGHT Honorable, George Duke of Buck<g ref="char:EOLhyphen"/>ingham his Grace, <hi>Thomas</hi> Earle of <hi>Arroun<g ref="char:EOLhyphen"/>dell</hi> and <hi>Surrey, Robert</hi> Earle of <hi>Warwicke, Iohn</hi> Earle of <hi>Houldernes,</hi> and the reſt of the <hi>Counſell for New-England.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">M</seg>Ay it pleaſe your Lordſhips, that whereas you granted your Commiſſion vnto Cap<g ref="char:EOLhyphen"/>taine <hi>Robert Gorges,</hi> Gouer<g ref="char:EOLhyphen"/>nour of <hi>New England,</hi> Cap<g ref="char:EOLhyphen"/>taine <hi>Fraunces Weſt,</hi> my ſelfe, and the Gouernour of <hi>New-Plimoth,</hi> as Coun<g ref="char:EOLhyphen"/>ſellers with him, for the ordering and Gouer<g ref="char:EOLhyphen"/>ning of all the ſaid Terretories, wherein wee haue ben diligent to the vttermoſt of our po<g ref="char:EOLhyphen"/>wers, as we ſhall be ready to render an account vnto your Honors, when you ſhall be pleaſed to require vs thereunto. In the meane time, I thought it my dutie to preſent vnto your viewes, ſuch obſeruation as I haue taken, both of the Countrey and People, Commodities
+<pb facs="tcp:173250:4"/>&amp; Diſcommodities: as alſo, what places are fit to ſettle Plantations in, in which not, what courſes ate fit in my vnderſtanding to bee ta<g ref="char:EOLhyphen"/>ken, for bringing Glory to God, Hounour to our King &amp; Nation, good vnto the Commo<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLhyphen"/>wealth, &amp; profit to all Aduenturers and Plan<g ref="char:EOLhyphen"/>ters: which I humbly beſeech your Lordſhips to accept of, as the beſt fruits of a ſhallow ca<g ref="char:EOLhyphen"/>paſitie: ſo ſhall I thinke my time and charge well imploied, which I haue ſpent in theſe affaires.</p>
+            <p>I haue omitted many things in this my diſcourſe, which I conceiued to be Imperti<g ref="char:EOLhyphen"/>nent at this time for me to relate, as of the time of my being at Sea, of the ſtrange Fiſh which wee there ſaw, ſome with wings fly<g ref="char:EOLhyphen"/>ing aboue the water, others with manes, eares and heads, and chaſing one another with o<g ref="char:EOLhyphen"/>pen mouths like ſtone Horſes in a parke, as al<g ref="char:EOLhyphen"/>ſo of the ſteering of our Courſe, the obſerua<g ref="char:EOLhyphen"/>tion of the Sunne and Starres, by which the e<g ref="char:EOLhyphen"/>leuation of the Pole is found, the degrees of latitude knowen, which ſhews how far a ſhip is out of his due courſe, either to the North or South: likewiſe of the making of the land at our arriuall vpon the choaſt of <hi>New-England,</hi>
+               <pb facs="tcp:173250:4"/>how it did ariſe and appeare vnto vs: how e<g ref="char:EOLhyphen"/>uery Harbour beares one from another vpon the point of the Compas: and what Rockes and dangers are in the way: how many fa<g ref="char:EOLhyphen"/>thom water is found by ſounding at the en<g ref="char:EOLhyphen"/>trance of euery Harbour: and from how ma<g ref="char:EOLhyphen"/>ny of the ſeuerall winds all the Harbours are land locked. But by this meanes I thought I ſhould not only be tedious, but alſo be in dan<g ref="char:EOLhyphen"/>ger of looſing my ſelfe, for want of fit phraiſes, and ſound iudgement, in the Arts of the Ma<g ref="char:EOLhyphen"/>thematickes and Nauigation, (being but a young Scholler, though an ancient trauiler by ſea) and therefore thought better to omit thoſe, then any thing I haue relate.</p>
+            <p>Thus beſeeching God to bleſſe your Ho<g ref="char:EOLhyphen"/>nors. I reſt at your Lordſhippes ſeruice.</p>
+            <closer>
+               <signed>CHRISTOPHER LEVETT.</signed>
+            </closer>
+         </div>
+         <div type="table_of_contents">
+            <pb facs="tcp:173250:5"/>
+            <head>The Contents.</head>
+            <list>
+               <item>
+                  <label>CHAP. I.</label> COntaines my diſcouery of diuers Riuers and Harbours, with their names, and which are fit for Plantations and which not.</item>
+               <item>
+                  <label>CHAP. II.</label> Sheweth how the Sauages carried them ſelues vnto me conti<g ref="char:EOLhyphen"/>nually, and of my going to their Kings howſes: and there com<g ref="char:EOLhyphen"/>ming to mine.</item>
+               <item>
+                  <label>CHAP. III.</label> Sheweth the nature and diſpoſition of the Sauages, and of their ſeuerall Gods, <hi>Squanto</hi> and <hi>Tanto.</hi>
+               </item>
+               <item>
+                  <label>CHAP. IIII.</label> Containes a diſcription of the Countrey, with the commodities and diſcommodities.</item>
+               <item>
+                  <label>CHAP. V.</label> Certaine obiections and anſwers, with ſufficient proofes how it may be exceeding profitable to the common wealth, and all Plan<g ref="char:EOLhyphen"/>ters and Aduenturers.</item>
+               <item>
+                  <label>CHAP. VI.</label> Sheweth how by aduenturing of <hi>100</hi> pounds more or leſſe, a man may profit ſo much euery yeare for <hi>20.</hi> yeares, or more with<g ref="char:EOLhyphen"/>out any more charge then at the firſt.</item>
+               <item>
+                  <label>CHAP. VII.</label>Sheweth how euery Parriſh may befreed of their weekely pay<g ref="char:EOLhyphen"/>ments to the poore, by the profits which may be fetched thence. With certaine obiections againſt the things contained in this and the former Chapter: with anſwers there vnto.</item>
+               <item>
+                  <label>CHAP. VIII.</label> Containes certaine directions for all priuate perſons that in<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: missing" extent="1 line">
+                     <desc>〈1 line〉</desc>
+                  </gap>
+               </item>
+            </list>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:173250:5"/>
+            <head>A VOYAGE INTO NEVV-ENGLAND.</head>
+            <div n="1" type="chapter">
+               <head>CHAP. I.</head>
+               <argument>
+                  <p>Containes my diſcouery of diuerſe Riuers and Harbours, with their names, and which are fit for Plantations, and which not.</p>
+               </argument>
+               <p>
+                  <seg rend="decorInit">T</seg>He firſt place I ſet my foote vpon in <hi>New England,</hi> was the Iles of <hi>Shoulds,</hi> being Ilands in the Sea, about two Leagues from the Mayne.</p>
+               <p>Vpon theſe Ilands, I neither could ſee one good timber tree, nor ſo much good ground as to make a garden.</p>
+               <p>The place is found to be a good fiſhing place for 6. Shippes, but more cannot well be there: for want of convenient ſtage-roome, as this yeares experience hath proued.</p>
+               <p>The Harbour is but indifferent good. Vpon theſe Ilands are no Savages at all.</p>
+               <p>The next place I came vnto was <hi>Pannaway,</hi> where one <hi>M. Tomſon</hi> hath made a Plantation, there I ſtayed about one Moneth, in which time, I ſent for my men from the Eaſt: who came over in diverſe Shipps.</p>
+               <p>At this place I met with the Governour, who came
+<pb n="2" facs="tcp:173250:6"/>thither in a Barke which he had from one M. <hi>Weſton</hi> a<g ref="char:EOLhyphen"/>bout 20. dayes before I arived in the Land.</p>
+               <p>The Governour then told me, that I was joyned with him in Commiſſion as a Counſeller, which be<g ref="char:EOLhyphen"/>ing read I fou<g ref="char:cmbAbbrStroke">̄</g>d it was ſo. And he then in the preſence of three more of the Counſell, adminiſtred vnto me an oath.</p>
+               <p>After the meeting of my men, I went a coaſting in two boats with all my company.</p>
+               <p>In the time I ſtayd with <hi>M. Tomſon,</hi> I ſurveyed as much as poſſible I could, the wether being vnſeaſon<g ref="char:EOLhyphen"/>able and very much ſnow.</p>
+               <p>In thoſe parts, I ſaw much good Timber. But the ground it ſeemed to me not to be good, being very rockey and full of trees and bruſhwood.</p>
+               <p>There is great ſtore of fowle of diuerſe ſorts, wher<g ref="char:EOLhyphen"/>of I fed very plentifully.</p>
+               <p>About two Engliſh miles further to the Eaſt, I found a great River and a good harbour called <hi>Paſcattaway.</hi> But for the ground I can ſay nothing, but by the rela<g ref="char:EOLhyphen"/>tion of the <hi>Sagamore</hi> or King of that place, who told me there was much good ground up in the river about ſeven or eight leagues.</p>
+               <p>About two leagues, further to the Eaſt is another great river called <hi>Aquamenticus.</hi> There I think a good plantation may be ſetled, for there is a good harbour for ſhips, good ground, and much already cleared, fit for planting of corne and other fruits, having hereto<g ref="char:EOLhyphen"/>fore ben planted by the Salvages who are all dead. There is good timber, and likely to be good fiſhing, but as yet there hash beene no tryall made that I can heare of.</p>
+               <pb n="3" facs="tcp:173250:6"/>
+               <p>About 6 leagues further to the Eaſt is a harbour cal<g ref="char:EOLhyphen"/>led <hi>Cape Porpas,</hi> the which is indifferent good for 6 ſhippes, and it is generally thought to bean excellent place for fiſh, but as yet there hath been no tryall made, but there may be a good plantation ſeated, for there is good Timber, and good ground, but will re<g ref="char:EOLhyphen"/>quire ſome labour and charge.</p>
+               <p>About foure leagues further Eaſt, there is another harbour called <hi>Sawco</hi> (betweene this place and <hi>Cape Porpas</hi> I loſt one of my men) before we could reco<g ref="char:EOLhyphen"/>ver the harbour a great fog or miſt tooke us that we could not ſee a hundred yards from us. I perceiving the fog to come upon the Sea, called for a Compaſſe, and ſet the Cape land, by which wee knew how to ſteare our courſe, which was no ſooner done but wee loſt ſight of land, and my other boate, and the winde blew freſh againſt us, ſo that we were enforced to ſtrike ſaile, and betake us to our Oares which wee uſed with all the wit and ſtrength we had, but by no meanes could we recover the ſhore that night, being imbayed and compaſſed round with breaches, which roared in a moſt fearfull manner on every ſide us: wee took counſell in this extremity one of another what to doe to ſaue our liues, at length we reſolved that to put to ſea againe in the night was no fit courſe, the ſtorme being great, and the winde blowing right of the ſhore, and to runne our boate on the ſhore amongſt the breaches, (which roared in a moſt feare full manner) and caſt her away and indanger our ſelues we were loath to doe, ſeeing no land nor know<g ref="char:EOLhyphen"/>ing where we were. At length I cauſed our Killick (which was all the Anker we had) to be caſt forth,
+<pb n="4" facs="tcp:173250:7"/>and one continually to hold his hand upon the roode or cable, by which we knew whether our ancker held or no: which being done wee commended our ſelues to God by prayer, &amp; put on a reſolution to be as com<g ref="char:EOLhyphen"/>fortable as we could, and ſo fell to our victuals. Thus we ſpent that night, and the next morning, with much adoe we got in to <hi>Sawco,</hi> where I found my other boate.</p>
+               <p>There I ſtayed fiue nights, the winde being con<g ref="char:EOLhyphen"/>trary, and the weather very vnſeaſonable, hauing much raine and ſnow, and continuall foggse.</p>
+               <p>We built us our Wigwam, or houſe, in one houres ſpace, it had no frame, but was without forme or fa<g ref="char:EOLhyphen"/>ſhion, onely a few poles ſet up together, and couered with our boates ſailes, which kept forth but a little winde, and leſſe raigne and ſnow.</p>
+               <p>Our greateſt comfort we had, next unto that which was ſpirituall, was this, we had foule enough for kil<g ref="char:EOLhyphen"/>ling, wood enough for felling, and good freſh water enough for drinking. But our beds was the wet ground, and our bedding our wet cloaths. Wee had plenty of Craine, Gooſe, Duckes and Mallard, with other fowle, both boyled and roſted, but our ſpits and racks were many times in danger of burning before the meate was ready (being but wooden ones.)</p>
+               <p>After I had ſtayed there three daies, and no likely<g ref="char:EOLhyphen"/>hood of a good winde to carrie vs further, I tooke with me ſixe of my men, and our Armes, and walked along the ſhore, to diſcouer as much by land as I could: after I had travelled about two Engliſh miles I met with a riuer which ſtayed me that I could goe no further by land that day, but returned to our place
+<pb n="5" facs="tcp:173250:7"/>of habitation where we reſted that night (hauing our lodging amended) for the day being dry I cauſed all my company to accompany mee to a marſh ground, where wee gathered euery man his burthen of long dry graſſe, which being ſpread in our Wigwam or Houſe, I praiſe God I reſted as contentedly as euer I did in all my life. And then came into my minde an old merry ſaying, which I haue heard of a begger boy who ſaid if euer he ſhould attaine to be a King, he would haue a breſt of mutton with a pudding in it, and lodge euery night vp to the eares in drye ſtraw, and thus I made my ſelfe and my company as merry as I could, with this and ſome other conceits, making this vſe of all, that it was much better then wee deſer<g ref="char:EOLhyphen"/>ued at Gods hands, if he ſhould deale with vs accor<g ref="char:EOLhyphen"/>ding to our ſinnes.</p>
+               <p>The next morning I cauſed 4 of my men to rowe my leſſer boate to this riuer, who with much adoe got in my ſelfe, and 3 more going by land: but by reaſon of the extremitie of the wether we were enforced to ſtay there that night, and were conſtrained to ſleepe vpon the riuer banke, being the beſt place wee could finde, the ſnowe being very deepe. The next mor<g ref="char:EOLhyphen"/>ning wee were enforced to riſe betime, for the tyde came vp ſo high that it waſhed away our fire, and would haue ſerued vs ſo too if we had not kept watch. So wee went ouer the riuer in our boate, where I cau<g ref="char:EOLhyphen"/>ſed ſome to ſtay with her, my ſelfe being deſirous to diſcouer further by land, I tooke with mee foure men and walked along the ſhore about ſixe Engliſh miles further to the Eaſt where I found another riuer, which ſtaied mee. So we returned backe to <hi>Sawco,</hi> where the
+<pb n="6" facs="tcp:173250:8"/>reſt of my company and my other boate lay. That night I was exceeding ſicke, by reaſon of the wet and cold and much toyling of my body: but thankes be to God I was indifferent well the next morning, and the winde being faire we put to ſea, and that day came to <hi>Quack.</hi>
+               </p>
+               <p>But before I ſpeake of this place I muſt ſay ſome<g ref="char:EOLhyphen"/>thing of <hi>Sawco,</hi> and the too riuers which I diſcouered in that bay, which I thinke neuer Engliſhman ſaw be<g ref="char:EOLhyphen"/>fore.</p>
+               <p>
+                  <hi>Sawco</hi> is about one league to the Northeaſt of a cape land. And about one Engliſh mile from the maine lieth ſixe Ilands, which make an indifferent good har<g ref="char:EOLhyphen"/>bour. And in the maine there is a Coue or gutt which is about a cables length in bredth, and too cables length long, there too good Ships may ride, being well mored a head and ſtarne, and within the Coue there is a great Marſh, where at a high water a hun<g ref="char:EOLhyphen"/>dreth ſayle of Ships may floate, and be free from all winds, but at low water muſt ly a ground, but being ſoft oaſe they can take no hurte.</p>
+               <p>In this place there is a world of fowle, much good timber, and a great quantetie of cleare ground and good, if it be not a little too ſandy. There hath beene more fiſh taken within too leagues of this place this yeare then in any other in the land.</p>
+               <p>The riuer next to <hi>Sawco</hi> eaſtwards, which I diſco<g ref="char:EOLhyphen"/>vered by land, and after brought my boat into, is the ſtrangeſt river that ever my eyes beheld. It flowes at the leaſt ten foot water upright, and yet the ebbe runs ſo ſtrong that the tyde doth not ſtem it: At three quar<g ref="char:EOLhyphen"/>ters floud my men were ſcarce able with foure Oares
+<pb n="7" facs="tcp:173250:8"/>to rowe a head. And more then that, at full Sea I dip<g ref="char:EOLhyphen"/>ped my hand in the water, quite without the mouth of the River, in the very main Ocean, and it was as freſh as though it had been taken from the head of a Spring.</p>
+               <p>This River, as I am told by the <hi>Salvages,</hi> commeth from a great mountaine called the Chriſtall hill, being as they ſay 100 miles in the Country, yet is it to be ſeene at the ſea ſide; and there is no ſhip ariues in <hi>New England,</hi> either to the Weſt ſo farre as <hi>Cape Cod,</hi> or to the Eaſt ſo farre as <hi>Monhiggen,</hi> but they ſee this Mountaine the firſt land, if the weather be cleere.</p>
+               <p>The next river Eaſtward which I diſcovered by land, is about ſixe miles from the other. About theſe two riuers I ſaw much good timber and ſandy ground, there is alſo much fowle, fiſh and other com<g ref="char:EOLhyphen"/>modities: but theſe places are not fit for plantation for the preſent, becauſe there is no good comming in, either for ſhip or boate, by reaſon of a ſandy breach which lyeth alongſt the ſhore, and makes all one breach.</p>
+               <p>And now in its place I come to <hi>Quack,</hi> which I haue named <hi>Yorke.</hi> At this place there fiſhed divers ſhips of <hi>Waymouth</hi> this yeare.</p>
+               <p>It lyeth about two leagues to the Eaſt of <hi>Cape Eli<g ref="char:EOLhyphen"/>zabeth,</hi> it is a Bay or Sound betwixt the Maine and certaine Ilands which lyeth in the ſea about one Eng<g ref="char:EOLhyphen"/>liſh mile and halfe.</p>
+               <p>There are foure Ilands which makes one good har<g ref="char:EOLhyphen"/>bour, there is very good fiſhing, much fowle and the mayne as good ground as any can deſire. There I fou<g ref="char:cmbAbbrStroke">̄</g>d one River wherein the Savages ſay there is much <hi>Sal<g ref="char:EOLhyphen"/>mon</hi> and other good fiſh. In this Bay, there hath ben
+<pb n="8" facs="tcp:173250:9"/>taken this yeare 4. <hi>Sturgions,</hi> by fiſhermen who driue only for <hi>Herrings,</hi> ſo that it is likely there may be good ſtore taken if there were men fit for that purpoſe. This River I made bold to call by my owne name <hi>Levetts</hi> river, being the firſt that diſcovered it. How farre this river is Navigable I cannot tell, I haue ben but 6. miles up it, but on both ſides is goodly ground.</p>
+               <p>In the ſame Bay I found another River, up which I went about three miles and found a great fall, of water much bigger then the fall at <hi>London</hi> bridge at low water, further a boate cannot goe, but aboue the fall the River runnes ſmooth againe.</p>
+               <p>Iuſt at this fall of water the <hi>Sagamore</hi> or King of that place hath a houſe, where I was one day when there were two <hi>Sagamors</hi> more, their wiues and children, in all about 50. and we were but 7. They bid me wel<g ref="char:EOLhyphen"/>come and gaue me ſuch victualls as they had, and I gaue them <hi>Tobacco</hi> and <hi>Aqua vitae.</hi> After I had ſpent a little time with them I departed &amp; gaue them a ſmall ſhot, and they gaue me another. And the great <hi>Sa<g ref="char:EOLhyphen"/>gamore</hi> of the Eaſt Country, whom the reſt doe ac<g ref="char:EOLhyphen"/>knowledge to be chiefe amongſt them, hee gaue unto me a Bevers skin, which I thankfully received, and ſo in great loue we parted. On both ſides this river there is goodly ground.</p>
+               <p>From this harbour to <hi>Sagadahock,</hi> which is about 8. or 9. leagues, is all broken Ilands in the Sea, which makes many excellent good Harbours, where a thou<g ref="char:EOLhyphen"/>ſand ſaile of Shipps may ride in ſafety; the ſound going up within the Ilands to the Cape of <hi>Sagadahock.</hi>
+               </p>
+               <p>In the way betwixt <hi>Yorke</hi> and <hi>Sagadahock</hi> lyeth <hi>Caſcoe,</hi> a good harbour, good fiſhing, good ground,
+<pb n="9" facs="tcp:173250:9"/>and much fowle. And I am perſwaded that from <hi>Cape Elizabeth</hi> to <hi>Sagadahock,</hi> which is aboue 30 leagues to follow the Maine, is all exceeding commodious for Plantations: and that there may be 20 good Townes well ſeated, to take the benefit both of the ſea, and freſh Rivers.</p>
+               <p>For <hi>Sagadahock</hi> I need ſay nothing of it, there hath been heeretofore enough ſaid by others, and I feare me too much. But the place is good, there fiſhed this yeare two ſhips.</p>
+               <p>The next place I came to was <hi>Capemanwagan,</hi> a place where nine ſhips fiſhed this yeare. But I like it not for a plantation, for I could ſee little good timber &amp; leſſe good ground, there I ſtayed foure nights, in which time, there came many Savages with their wiues and children, and ſome of good accompt amongſt them, as <hi>Menawormet</hi> a Sagamore, <hi>Cogaweſco</hi> the Sagamore of <hi>Caſco</hi> and <hi>Quack,</hi> now called <hi>Yorke, Somerſet,</hi> a Saga<g ref="char:EOLhyphen"/>more, one that hath ben found very faithfull to the Engliſh, and hath ſaved the liues of many of our Na<g ref="char:EOLhyphen"/>tion, ſome from ſtarving, others from killing.</p>
+               <p>They entended to haue ben gone preſently, but hearing of my being there, they deſired to ſee me, which I underſtood by one of the Maſters of the Ships, who likewiſe told me that they had ſome ſtore of Beauer coats and skinnes, and was going to <hi>Pe<g ref="char:EOLhyphen"/>maquid</hi> to truck with one Mr. <hi>Witheridge,</hi> a Maſter of a ſhip of <hi>Baſtable,</hi> and deſired me to uſe meanes that they ſhould not carry the<g ref="char:cmbAbbrStroke">̄</g> out of the harbour, I wiſht them to bring all their truck to one Mr. <hi>Cokes</hi> ſtage &amp; I would do the beſt I could to put it away: ſome of them did accordingly, and I then ſent for the <hi>Saga<g ref="char:EOLhyphen"/>mores,</hi>
+                  <pb n="10" facs="tcp:173250:10"/>who came, and after ſome complements they told me I muſt be their cozen, and that Captaine <hi>Gorges</hi> was ſo, (which you may imagine I was not a little proud of, to be adopted cozen to ſo many great Kings at one inſtant, but did willingly accept of it) and ſo paſſing away a little time very pleaſantly, they deſired to be gone, whereupon I told them that I underſtood they had ſome coates and Beauers skins which I deſired to truck for, but they were unwilling, and I ſeemed careleſſe of it (as men muſt doe if they deſire any thing of them:) But at laſt <hi>Somerſet</hi> ſwore that there ſhould be none carryed out of the harbour, but his cozen <hi>Levett</hi> ſhould haue all, and then they began to offer me ſome by way of gift, but I would take none but one paire of ſleeues from <hi>Cogaweſco,</hi> but told them it was not the faſhion of Engliſh Captaines alwaies to be taking, but ſometimes to take and giue, and continually to truck was very good. But in fine, we had all except one coate and two skinnes, which they reſerved to pay an old debt with, but they ſta<g ref="char:EOLhyphen"/>ying all that night, had them ſtole from them.</p>
+               <p>In the morning the <hi>Sagamores</hi> came to mee with a grieuous complaint, I vſed the beſt language I could to giue them content, and went with them to ſome Stages which they moſt ſuſpected, and ſearched both Cabins and Cheſts, but found none. They ſeeing my willingneſſe to finde the theefe out, gaue mee thankes, and wiſhed me to forbeare, ſaying the Rogues had carried them into the woods where I could not find them.</p>
+               <p>When they were ready to depart they asked mee where I meant to ſettle my plantation, I told them I
+<pb n="11" facs="tcp:173250:10"/>had ſeene many places to the weſt, and intended to goe further to the eaſt before I could reſolue, they ſayed there was no good place and I had heard, that <hi>Pemo<g ref="char:EOLhyphen"/>quid</hi> and <hi>Capmanwagan</hi> and <hi>Monhiggon</hi> were granted to others, &amp; the beſt time for fiſhing was then at hand which made me the more willing to retire, and the rather becauſe <hi>Cogaweſco</hi> the <hi>Sagamore</hi> of <hi>Caſco</hi> and <hi>Quacke,</hi> told me if that I would ſit downe at either of thoſe two places, I ſhould be very welcome, and that he and his wife would goe along with me in my boate to ſee them, which curteſey I had no reaſon to refuſe, becauſe I had ſet vp my reſolution before to ſettle my plantation at <hi>Quacke,</hi> which I named <hi>Yorke,</hi> and was glad of this oppertunity, that I had obtained the con<g ref="char:EOLhyphen"/>ſent of them who as I conceiue hath a naturall right of inheritance as they are the ſonnes of <hi>Noah,</hi> and there<g ref="char:EOLhyphen"/>fore doe thinke it fit to carry things very fairely with<g ref="char:EOLhyphen"/>out compulſion (if it be poſible) for avoyding of treacherie.</p>
+               <p>The next day the winde came faire, and I ſayled to <hi>Quacke</hi> or <hi>Yorke,</hi> with the King, Queene, and Prince, bowe and arrowes, dogge and kettell in my boate, his noble attendance rowing by vs in their Cannow.</p>
+               <p>When we came to <hi>Yorke</hi> the Maſters of the Shippes came to bid me welcome, and asked what Sauages thoſe were, I told them, and I thanked them, they vſed them kindly &amp; gaue them meate, drinke and tobacco. The woman or reputed Queene, asked me if thoſe men were my friends, I told her they were; then ſhe dranke to them and told them, they were welcome to her Countrey and ſo ſhould all my friends be at any time, ſhe dranke alſo to her husband and bid him welcome
+<pb n="12" facs="tcp:173250:11"/>to her Countrey too, for you muſt vnderſtand, that her father was the <hi>Sagamore</hi> of this place and left it to her at his death hauing no more Children.</p>
+               <p>And thus after many dangers, much labour and great charge, I haue obtained a place of habitation in <hi>New-England,</hi> where I haue built a houſe, and fortified it in a reaſonable good faſhion, ſtrong enough againſt ſuch enimies as are thoſe Sauage people.</p>
+            </div>
+            <div n="2" type="chapter">
+               <head>CHAP. II.</head>
+               <argument>
+                  <p>Sheweth how the Sauages, carried themſelues vnto me con<g ref="char:EOLhyphen"/>tinually, and of my going to their Kings Houſes: and their comming to mine.</p>
+               </argument>
+               <p>WHileſt I ſtaied in this place I had ſome little trucke but not much, by reaſon of an euill member in the Harbour, who being couetous of trucke vſed the matter ſo, that he got the Sauages away from me.</p>
+               <p>And it is no wonder that he ſhould abuſe me in this ſort, for he hath not ſpared your Lordſhipps and all the Counſell for <hi>New-England.</hi>
+               </p>
+               <p>He ſaid vnto the Gouernour that the Lords had ſent men ouer into that Countrey with Commiſſions, to make a prey of others. And yet for my owne part I ne<g ref="char:EOLhyphen"/>uer demanded or tooke from any man in that Coun<g ref="char:EOLhyphen"/>tery, the value of a denier, neither had I ſo much helpe from any Shippe or Shippes companie as one mans labour the ſpace of an houre, nor had I any pro<g ref="char:EOLhyphen"/>uiſion or victuall vpon any tearmes whatſoeuer, ſaue onely, 1000. of bread and 22. buſhells of peaſe, which was offered vnto mee, and not by me requeſted, for
+<pb n="13" facs="tcp:173250:11"/>which I gaue preſent ſatisfaction in <hi>Beuer</hi> skines: and alſo one Rownlet of <hi>Aqua vitae,</hi> which was brought to me 16. Leagues vnexſpected, which good manners bid me buy. Much more proviſion was offered to me by many Maſters of Ships, but I had no need there<g ref="char:EOLhyphen"/>of, ſo I gaue them thanks for their kindneſſe, and refu<g ref="char:EOLhyphen"/>ſed all.</p>
+               <p>Nay it is well knowne, that I was ſo farre from do<g ref="char:EOLhyphen"/>ing wrong to any: that I ſuffered the Land which was granted to me by Pattent and made choyce of before any other man came there, to be uſed, and my timber to be cut downe &amp; ſpoyled, without taking or asking any ſatisfaction for the ſame. And I doubt not but all others to whom you gaue authoritie, will ſufficiently cleare themſelues of all ſuch imputations.</p>
+               <p>He ſaid alſo he cared not for any authoritie in that place, and though he was forbid to trucke, yet would he haue all he could get: in deſpite of who ſhould ſay to the contrary, having a great Ship with 17. peeces of Ordinance and 50. men.</p>
+               <p>And indeed his practiſe was according to his words, for every Sunday or once in the weeke, he went him<g ref="char:EOLhyphen"/>ſelfe or ſent a boate up the river and got all the trucke before they could come downe to the Harbour. And ſo many Savages as he could get to his ſtage, hee would enforce the<g ref="char:cmbAbbrStroke">̄</g> to leaue their goods behind them. One inſtance amongſt marry I will giue you.</p>
+               <p>On a certaine day there came two Savages to his place, who were under the command of <hi>Sommerſet</hi> or <hi>Conway</hi> I know not whether, at which time they were both with me at my houſe, but the other two who went to him, knew not ſo much, but afterwards they
+<pb n="14" facs="tcp:173250:12"/>underſtanding of it, came prefently over, but left their Cotts and <hi>Beauer</hi> skines behind them, whereat <hi>Somer<g ref="char:EOLhyphen"/>ſet</hi> and <hi>Conway</hi> were exceeding angrie: and were rea<g ref="char:EOLhyphen"/>dy to beate the poore fellows, but I would not ſuffer them ſo to doe. They preſently went over the Harbor themſelues in their <hi>Cannow</hi> to fetch their goods, but this man would let them haue none, but wiſhed them to truck with him, they told him they would not, but would carry them to Captaine <hi>Levett,</hi> he ſaid <hi>Levett</hi> was no captaine, but a <hi>Iacknape,</hi> a poore fellow &amp;c. They told him againe that he was a <hi>Roague</hi> with ſome other ſpeeches, whereupon he and his company fell upon them &amp; beate them both, in ſo much that they came to me in a great rage againſt him, and ſaid, they would be revenged on his Fiſhermen at ſea, and much adoe I had to diſwade one of them for going into <hi>England</hi> to tell King <hi>Iames</hi> of it, as he ſaid; when they came to me in this rage, there was two or three Ma<g ref="char:EOLhyphen"/>ſters of Shippes by, and heard every word.</p>
+               <p>But all this did me no hurt, (ſaue the loſſe of the trucke, which by divers was thought to be worth a<g ref="char:EOLhyphen"/>boue 50. li.) for the two <hi>Sagamores</hi> whom he inticed from me, and incenſed againſt me, at length uſed meanes to be freinds with me, ſending one who asked me, if I were angrie with them, I told them no, I was not angrie with them for any ſuch matter as lowſie Cotts and skinnes, but if they were <hi>Matchett,</hi> that is, naughtie men, and rebellious: then I could be <hi>Mou<g ref="char:EOLhyphen"/>chick Hoggery,</hi> that is very angry, and would <hi>Cram,</hi> that is, kill them all.</p>
+               <p>When they came them ſelues to me to ſeeke peace, they brought me a <hi>Beauer</hi> Coate, and two <hi>Otters</hi> kines
+<pb n="15" facs="tcp:173250:12"/>which they would haue let me had for nothing, but I would not take them ſo, but gaue them more then v<g ref="char:EOLhyphen"/>ſually I did by way of Trucke, I then told them like<g ref="char:EOLhyphen"/>wiſe that if at any time they did Trucke with mee, they ſhould haue many good things in leiu of their Beauer: and if they did not Trucke it was no matter, I would be good friends with them, at which they ſmiled and talked one to the other, ſaying the other man was a Iacknape, and that I had the right faſhion of the <hi>Aberieney Sagamores,</hi> then they began to ap<g ref="char:EOLhyphen"/>plaude or rather flatter me, ſaying I was ſo bigge a <hi>Sa<g ref="char:EOLhyphen"/>gamore,</hi> yea foure fathom, which were the beſt words they could vſe to expreſſe their minds: I replied that I was a poore man as he had reported of mee. They ſaid againe it was no matter what I ſaid, or that <hi>Iack<g ref="char:EOLhyphen"/>nape</hi> (which is the moſt diſgracefull word that may be in their conceite,) for all the <hi>Sagamores</hi> in the Coun<g ref="char:EOLhyphen"/>try loued poore <hi>Leuett</hi> and was <hi>muchicke</hi> ſorie that he would be gon, (and indeed I cannot tell what I ſhould thinke of them, for euer after they would bring mee any thing they thought would giue mee content, as Egges and the whole bodyes of <hi>Beauer,</hi> which in my coneite eate like <hi>Lambe,</hi> and is not inferiour to it: yea the very coats of <hi>Beauer,</hi> &amp; <hi>Otter-skinnes,</hi> from off their backes, which though I many times refuſed, yet not allwaies, but I neuer tooke any ſuch courteſie from them but I requited them anſwerably, chuſing rather to neglect the preſent profit, then the hopes I haue to bring them to better things, which I hope will be for a publicke good, and which I am perſwaded were a<g ref="char:EOLhyphen"/>greeuous ſinne, to neglect for any ſiniſter end.</p>
+               <p>And a little before my departure there came theſe <gap reason="missing" extent="1 page">
+                     <desc>〈1 page missing〉</desc>
+                  </gap>
+                  <pb n="16" facs="tcp:173250:13"/>
+                  <hi>mores</hi> to ſee mee, <hi>Sadamoyt</hi> the great <hi>Sagamore</hi> of the Eaſt Countrey, <hi>Manawormet, Opparunwit, Skedraguſ<g ref="char:EOLhyphen"/>cett, Cogaweſco, Somerſett, Conway</hi> and others.</p>
+               <p>They asked me why I would be gone out of their Countrey, I was glad to tell them my wife would not come thither except I did fetch her, they bid a pox on her hounds, (a phraſe they haue learned and doe vſe when they doe curſe) and wiſhed me to beate her. I told them no, for then our God would bee angrie. Then they runne out vpon her in euill tearmes, and wiſhed me let her alone and take another, I told them our God would be more angrie for that. Againe they bid me beate her, beate her, repeating it often, and very angerly, but I anſwered no, that was not the Engliſh faſhion, and beſides, ſhe was a good wife and I had children by her, and I loued her well, ſo I ſatisfi<g ref="char:EOLhyphen"/>ed them. Then they told me that I and my wife and Children, with all my friends ſhould bee hartily wel<g ref="char:EOLhyphen"/>come into that Countrey at any time, yea a hundreth thouſand times, yea <hi>Mouchicke, Mouchicke,</hi> which is a word of waight.</p>
+               <p>And <hi>Somerſett</hi> tould that his Sonne (who was borne, whilſt I was in the Countrey, and whom hee would needs haue to Name) and mine ſhould be Bro<g ref="char:EOLhyphen"/>thers and that there ſhould be <hi>mouchicke legamatch,</hi> (that is friendſhip) betwixt them, untill <hi>Tanto</hi> carried them to his <hi>Wigwam,</hi> (that is, vntill that they died.</p>
+               <p>Then they muſt know of mee how long I would be wanting, I told them ſo many Months, at which they ſeemed to be well pleaſed, but wiſht me to take heede I proued not <hi>Chechaske</hi> in that (that is, a lier.) They asked me what I would doe with my houſe, I told
+<pb n="17" facs="tcp:173250:13"/>them I would leaue 10. of my men there vntill I came againe, and that they ſhould kill all the <hi>Tarrantens</hi> they ſhould ſee (being enimies to them) and with whom the Engliſh haue no comarſſe. At which they reioyced exceedingly, and then agreed amongſt them<g ref="char:EOLhyphen"/>ſelues, that when the time ſhould be expired, which I ſpoke of for my returne, euery one at the place where he liued would looke to the Sea, and when they did ſee a Ship they wold ſend to all the <hi>Sagamores</hi> in the Countrey, and tell them that poore <hi>Leuett</hi> was come againe. And thus inſteed of doing me hurt, I thinke that either he or I haue done good to all Plan<g ref="char:EOLhyphen"/>ters, by winning their affections, (which may bee made vſe of without truſting of them.)</p>
+               <p>But if your Lordſhip ſhould put up this wrong done unto you, and the Authority which you gaue them, never expect to be obeyed in thoſe parts, ei<g ref="char:EOLhyphen"/>ther by Planters or Fiſhermen; for ſome haue not ſtucke to ſay, that if ſuch a man, contemning autho<g ref="char:EOLhyphen"/>rity, and abuſing one of the counſell, and drawing his knife upon him at his own houſe, which he did, ſhould goe unpuniſhed, then would not they care what they did heereafter.</p>
+               <p>And truely let me tell your Lordſhips, that if euer you intend to puniſh any for diſobedience, or conte<g ref="char:cmbAbbrStroke">̄</g>pt of authority, this man is a fit inſtrument to make a preſident of, for he is rich, and this yeare will gaine the beſt part of 500 pounds by that Countrie, and he hath nether wife nor childe, for whoſe ſakes he ſhould be ſpared.</p>
+               <p>And if he goe free, as hee hath domineered over vs, to whom your Lordſhips gaue authority, but no
+<pb n="18" facs="tcp:173250:14"/>power to put it in execution, ſo will he grow unman<g ref="char:EOLhyphen"/>nerly too vvith your Lordſhips, as hee hath already begunne.</p>
+               <p>And it vvill diſcourage men hereafter to take any authority upon them, or to goe about to reforme any abuſes in thoſe parts.</p>
+               <p>And alſo it vvill hinder Planters for going over, if Fiſhermen be ſuffered not onely to take avvay their truck, but alſo to animate the Sauages againſt them, for this is the vvay to cauſe all Planters to haue their throats cut.</p>
+               <p>But I leaue theſe things to your Lo. conſiderati<g ref="char:EOLhyphen"/>on, vvho haue as vvell povver as authority to puniſh ſuch rebellious perſons.</p>
+               <p>Thus hauing acquainted you vvith vvhat I haue done, ſeen, and heard; novv giue me leaue to tell you vvhat I thinke of the Savages, the inhabitants of that country: as alſo to iuſtifie the innocent, I meane the Countrie of <hi>New-England,</hi> againſt the ſlanderous reports of this man, and ſome others which I haue heard, and likewiſe to deliver my opinion, what cour<g ref="char:EOLhyphen"/>ſes I conceiue to be moſt convenient to be taken, for bringing moſt glorie to God, comfort, honor and be<g ref="char:EOLhyphen"/>nifit to our King and our owne Natiue Nation.</p>
+            </div>
+            <div n="3" type="chapter">
+               <head>CHAP. III.</head>
+               <argument>
+                  <p>Sheweth the nature and diſpoſition of the <hi>Savages,</hi> and of their ſeverall Gods, <hi>Squanto</hi> and <hi>Tanto.</hi>
+                  </p>
+               </argument>
+               <p>I Haue had much conference with the Savages, a<g ref="char:EOLhyphen"/>bout our only true God, and haue done my beſt to
+<pb n="19" facs="tcp:173250:14"/>bring them to know and acknowledge him, but I feare me all the labour that way, will be loſt and no good will be done, except it be among the younger ſort.</p>
+               <p>I find they haue two Gods, on they loue: and the other the hate, the god they loue: they call <hi>Squanto,</hi> and to him they aſcribe all their good fortunes.</p>
+               <p>The god they hate they call <hi>Tanto,</hi> and to him they aſcribe all their euill fortunes, as thus, when any is kil<g ref="char:EOLhyphen"/>led, hurt, or ſicke, or when it is evill wether, then they ſay <hi>Tanto</hi> is <hi>hoggry,</hi> that is angry. When any dyes, they ſay <hi>Tanto</hi> carries them to his <hi>wigwam</hi> that is his houſe, and they never ſee them more.</p>
+               <p>I haue asked them where <hi>Squanto</hi> dwells, they ſay they cannot tell but up on high, and will poynt up<g ref="char:EOLhyphen"/>wards. And for <hi>Tanto,</hi> they ſay farre weſt, but they know not where.</p>
+               <p>I haue asked them if at any time they haue ſeene <hi>Squanto,</hi> or <hi>Tanto,</hi> they ſay no there is none ſees them, but their <hi>Pawwawes,</hi> nor they neither, but when they dreame.</p>
+               <p>Their <hi>Pawwawes</hi> are their Phiſitians and Surgions, and as I verely beleeue they are all Witches, for they foretell of ill wether, and many ſtrange things, every <hi>Sagamore</hi> hath one of them belongs to his company, and they are altogether directed by them.</p>
+               <p>On a time I was at a <hi>Sagamores</hi> houſe and ſaw a <hi>Martins</hi> skin, and asked if he would trucke it, the <hi>Sa<g ref="char:EOLhyphen"/>gamore</hi> told me no, the <hi>Pawwawe</hi> uſed to lay that un<g ref="char:EOLhyphen"/>der his head when he dreamed, and if he wanted that, he could doe nothing, thus we may perceiue how the devill deludes thoſe poore people and keep them in b<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>in<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>neſſe.</p>
+               <p>I find them generally to be marvelous quicke of ap<g ref="char:EOLhyphen"/>prehenſion,
+<pb n="20" facs="tcp:173250:15"/>and full of ſubteltie, they will quickely find any mans diſpoſition, and flatter &amp; humour him ſtrangely, if they hope to get any thing of him. And yet will they count him a foole if he doe not ſhevv a diſlike of it, and vvill ſay on to another, that ſuch a man is a <hi>Mechecome.</hi>
+               </p>
+               <p>They are ſlow of ſpeech, and if they heare a man ſpeake much they will laugh at him, and ſay he is a <hi>Mechecum,</hi> that is a foole.</p>
+               <p>If men of place be to familiar with them, they will not reſpect them: therefore it is to be wiſhed that all ſuch perſons ſhould be wiſe in their Carriage.</p>
+               <p>The <hi>Sagamores</hi> will ſcarce ſpeake to an ordinary man, but will point to their men, and ſay <hi>Sanops,</hi> muſt ſpeake to <hi>Sanops,</hi> and <hi>Sagamors</hi> to <hi>Sagamors.</hi>
+               </p>
+               <p>They are very bloudy minded and full of Trach<g ref="char:EOLhyphen"/>erie amongſt themſelues, one will kill another for their wiues, and he that hath the moſt wiues is the braueſt fellow: therefore I would wiſh no man to truſt them, what euer they ſay or doe, but alwaies to keepe a ſtrickt hand ouer them, and yet to vſe them kindly and deale vprightly with them; ſo ſhall they pleaſe God, keepe their reputation amongſt them, and be free from danger.</p>
+               <p>Their <hi>Sagamors</hi> are no Kings as I verilie beleeve, for I can ſee no Gouernment or Law amongſt them but Club Law: and they call all Maſters of Shippes <hi>Saga<g ref="char:EOLhyphen"/>more,</hi> or any other man, that they ſee haue a com<g ref="char:EOLhyphen"/>maund of men.</p>
+               <p>Their wiues are their ſlaues and doe all their worke the men will doe nothing but kill Beaſts Fiſh &amp;c.</p>
+               <p>On a time reaſoning with one of their <hi>Sagamors</hi> a<g ref="char:EOLhyphen"/>bout
+<pb n="21" facs="tcp:173250:15"/>there hauing ſo many wiues, I tould him it was no good faſhion, he then asked mee how many wiues King <hi>Iames</hi> had, I told him he neuer had but one, and ſhee was dead, at which he wondred, and asked mee who then did all the Kings worke. You may Imagin he thought their faſhion was vniuerſall, and that no King had any to worke for them but their wiufs.</p>
+               <p>They haue no apparrell but skinnes except they haue it from the <hi>Engliſh,</hi> or <hi>French,</hi> in winter the weare the haire ſide inwards, in ſummer outwards. They haue a peece of a skinne about their loines like a girdle and betweene their legges goes another, made faſt to the girdle before and behind, which ſerues to couer their nakedneſſe, they are all thus apparrelled, going bare headed with long haire, ſometimes you ſhall not know the men from women but by their breaſts, the men having no haire on their faces.</p>
+               <p>When their Children are borne they bind them on a peece of board, and ſets it vpright, either againſt a tree or any other place. They keep them thus bound vntill they be three months old, and after they are con<g ref="char:EOLhyphen"/>tinuall naked vntill they be about fiue or ſixe yeares. Yee ſhall haue them many times take their Children &amp; bury them in the ſnow all but their faces for a time, to make them the better to indure cold: and when they are not aboue 2. yeares old, they will take them and caſt them into the Sea, like a little dogge or Cat, to learne them to ſwimme.</p>
+               <p>Their weapons are bowes and arrowes, I never ſaw more then two fowling peeces, one piſtall, about foure Halfe-pikes, and three Curt-laces amongſt them, ſo that we neede not to feare them much, if wee auoid
+<pb n="22" facs="tcp:173250:16"/>their Treacherie.</p>
+               <p>Their houſes are built in halfe an houres ſpace being onely a few powles or boughes ſtucke in the ground and couered with the barkes of trees.</p>
+               <p>Their Language differs as <hi>Engliſh</hi> &amp; <hi>Welſh.</hi> On a time the Gouernour was at my houſe, and brought with him a <hi>Salvage</hi> who liued not aboue 70. miles from the place which I haue made choiſe of, vvho talking vvith another <hi>Sauage</hi> they vvere glad to vſe broken <hi>Eng<g ref="char:EOLhyphen"/>liſh</hi> to expreſſe their mind each to other, not being a<g ref="char:EOLhyphen"/>ble to vnderſtand one another in their Language.</p>
+            </div>
+            <div n="4" type="chapter">
+               <p>And to ſay ſomething of the Countrey: I will not doe therein as ſome haue done, to my knowledge ſpeake more then is true: I will not tell you that you may ſmell the corne fields before you ſee the Land, neither muſt men thinke that corne doth growe natu<g ref="char:EOLhyphen"/>rally (or on trees,) nor will the <hi>Deare</hi> come when they are called, or ſtand ſtill and looke one a man, untill he ſhute him, not knowing a man from a beaſt, nor the fiſh leape into the kettle, nor on the drie Land, neither are they ſo plentifull, that you may dipp them up in baskets, nor take <hi>Codd</hi> in netts to make a voyage, which is no truer: then that the fowles will preſent them<g ref="char:EOLhyphen"/>ſelues, to you with ſpitts through them.</p>
+               <p>But certainely their is fowle, <hi>Deare,</hi> and Fiſh enough for the taking if men be dilligent, there be alſo Vines, Plume trees, Cherey trees, Strawberies, Goosberies, and Raſpes, Walnutts, cheſnut, and ſmall nuts, of each great plenty, there is alſo great ſtore of parſley and di<g ref="char:EOLhyphen"/>vers other hole ſome Earbes, both for profit and plea<g ref="char:EOLhyphen"/>ſure, with great ſtore of Saxifrage Cerſa perilla and Anni ſeeds.</p>
+               <pb n="23" facs="tcp:173250:16"/>
+               <p>And for the ground there is large &amp; goodly Marſh to make meddow, higher land for paſture and corne.</p>
+               <p>There be theſe ſeverall ſorts of earth, which I haue ſeene, as, <hi>Clay, Sand, Grauill,</hi> yea and as blacke fatt earth, as ever I ſawe in <hi>England</hi> in all my life.</p>
+               <p>There are likewiſe theſe helpes for ground, as Sea<g ref="char:EOLhyphen"/>ſand, <hi>Oreworth</hi> or <hi>Wracke, Marle</hi> blew and white, and ſome men ſay there is <hi>Lime,</hi> but I muſt confeſſe I ne<g ref="char:EOLhyphen"/>uer ſaw any <hi>Lime-ſtone,</hi> but I haue tried the Shels of Fiſh, and I find them to be good <hi>Lime.</hi>
+               </p>
+               <p>Now let any husbandman tell mee, whither there be any feare of hauing any kind of Corne, hauing theſe ſeuerall kinds of Earth with theſe helpes, the Climat being full as good if not better then <hi>England.</hi>
+               </p>
+               <p>I dare be bold to ſay alſo, there may be Shippes as conueniently built there as in any place of the world, where, I haue beene, and better cheape. As for Plancke, crooked Timber, and all other forts what ſo<g ref="char:EOLhyphen"/>euer can be deſired for ſuch purpoſe, the world can<g ref="char:EOLhyphen"/>not afford better. Maſts and Yeards, of all ſiſes, there be all ſo Teees growing, whereof Pitch and Tarre is made.</p>
+               <p>And for Sailes and all ſorts Cordiſh you neede not to want, if you will but ſowe Hempe and Flax ſeede, and after worke it. Now there wants nothing but Iron, and truely I thinke I haue ſeene Iron-ſtone there, but I muſt acknowledge I haue no great iudge<g ref="char:EOLhyphen"/>ment in Mineralls, yet I haue ſeene the Iron-workes in <hi>England,</hi> and this Stone is like ours. But howſoe<g ref="char:EOLhyphen"/>uer if the Countrie will not afford Iron, yet it may be eaſilie brought, for it is good Ballaſt for Shippes.</p>
+               <p>There is alſo much excellent Timber for Ioyne<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s
+<pb n="24" facs="tcp:173250:17"/>and Coopers: howſoeuer a worthy Noble man hath beene abuſed, who ſent ouer ſome to make Pippe<g ref="char:EOLhyphen"/>ſtaues, who either for want of skill or induſtrie, did no good. Yet I dare ſay no place in <hi>England</hi> can af<g ref="char:EOLhyphen"/>ford better Timber for Pippe-ſtaues, then foure ſeue<g ref="char:EOLhyphen"/>rall places which I haue ſeene in that Countrey.</p>
+               <p>Thus haue I relaited vnto you what I haue ſeene, and doe know may be had in thoſe parts of <hi>New-En<g ref="char:EOLhyphen"/>gland</hi> where I haue beene, yet was I neuer at the <hi>Meſa<g ref="char:EOLhyphen"/>chuſett,</hi> which is counted the Paradice of <hi>New-En<g ref="char:EOLhyphen"/>gland,</hi> nor at <hi>Cape Ann.</hi> But I feare there hath been too faire a gloſſe ſet on <hi>Cape Ann.</hi> I am told there is a good Harbour which makes a faire Inuitation, but where they are in their entertainement is not anſwer<g ref="char:EOLhyphen"/>able, for there is little good ground, and the Shippes which fiſhed there this yeare, their boats went twen<g ref="char:EOLhyphen"/>ty miles to take their Fiſh, and yet they were in great feare of making their Voyages, as one of the Maſters confeſſed vnto me who was at my houſe.</p>
+               <p>Neither was I at <hi>New-Plimoth,</hi> but I feare that place is not ſo good as many other, for if it were in my con<g ref="char:EOLhyphen"/>ceite, they would content themſelues with it and not ſeeke for any other hauing ten times ſo much ground as would ſerue ten times ſo many people as they haue now amongſt them. But it ſeemes they haue no Fiſh to make benifit of, for this yeare they had one Shippe Fiſht at <hi>Pemoquid,</hi> and an other at <hi>Cape Ann,</hi> where they haue begun a new Plantation, but how long it will continew I know not.</p>
+               <p>Neither was I euer farther to the Weſt, then the Iles of <hi>Shoulds.</hi>
+               </p>
+               <p>Thus haue I done with my commendations of the
+<pb n="25" facs="tcp:173250:17"/>Countrie. I will now ſpeake the worſt I know by it.</p>
+               <p>About the middle of May you ſhall haue little Flies, called <hi>Musketoes,</hi> which are like Gnatts, they continue as I am told, vntill the laſt of Iuly. Theſe are very troubleſome for the time, for they ſting ex<g ref="char:EOLhyphen"/>ceedingly both night and day. But I found by expe<g ref="char:EOLhyphen"/>rience that bootes or thicke ſtockings would ſaue the legges, gloues the hands, and tiffeney or ſome ſuch things which will not much hinder the ſight will ſaue the face, and at night any ſmoake will ſecure a man.</p>
+               <p>The reaſon of the aboundance of theſe creatures, I take to be the woods which hinders the aire, for I haue obſerued allwaies when the winde did blow but a little, we were not much troubled with them.</p>
+               <p>And I verily thinke that if there were a good num<g ref="char:EOLhyphen"/>ber of people planted together, and that the woods were cut downe, the earth were tilled, and the rubbiſh which lieth on the ground wherein they breed were burnt, and that there were many chimneyes ſmoaking, ſuch ſmall creatures would doe but little hurt.</p>
+               <p>Another euill or inconuenience I ſee there, the the ſnow in winter did lie very long vpon the ground.</p>
+               <p>But I vnderſtand that all the parts of Chriſtendome, were troubled with a cold winter ſo well as wee. Yet would I aske any man what hurt ſnow doeth? The husbandman will ſay that Corne is the better for it. And I hope Cattell may bee as well fed in the houſe there as in <hi>England, Scotland,</hi> and other Countries, and he is but an ill husband that cannot find imployments for his ſeruants within doores for that time. As for Wiues and Children if they bee wiſe they will keepe themſelues cloſe by a good fire, and for men they will
+<pb n="26" facs="tcp:173250:18"/>haue ne occaſion to ride to Faires or Markets. <hi>Syſses</hi> or <hi>Seſsions,</hi> only Hawkes and Hounds will not then be vſefulll.</p>
+               <p>Yet let me tell you that it is ſtill a moſt Chriſtmas before there be any winter there, ſo that the cold time doth not continue long.</p>
+               <p>And by all reaſon that Countrey ſhould be hotter then <hi>England,</hi> being many Degrees farther from he North Pole.</p>
+               <p>And thus according to my poore underſtanding I haue given you the beſt information I can of the peo<g ref="char:EOLhyphen"/>ple and Country, commodities and diſcommodities. Now giue mee leaue to oppoſe my ſelfe againſt the man before mentioned, and others, who ſpeaks againſt the Country, and plantations in thoſe parts, and to ſet down ſuch obiections as I haue heard them make, and my anſwers, and afterward let wiſedome iudge: for my deſire is, that the ſaddle may be ſet on the right horſe, and the Aſſe may be rid, and the knaue puniſhed, either for diſcouraging or incouraging too much, whoſoeuer he be.</p>
+            </div>
+            <div n="5" type="chapter">
+               <head>CHAP. V.</head>
+               <argument>
+                  <p>Certaine obiections and anſwers, with ſufficient proues how it may be exceeding profitable to the Com<g ref="char:EOLhyphen"/>mon-wealth, and all planters and adventurers.</p>
+               </argument>
+               <p>THey ſay the Country is good for nothing but to ſtarue ſo many people as comes in it.</p>
+               <p>It is granted that ſome haue beene ſtarued to death, and others haue hardly eſcaped, but vvhere vvas the fault, in the Country or in themſelues. That
+<pb n="27" facs="tcp:173250:18"/>the Country is as I haue ſaid, I can bring 100 men to iuſtifie it; but if men be neither induſtrious nor provident, they may ſtarue in the beſt place of the world.</p>
+               <p>About two yeares ſince one Mr. <hi>Weſton</hi> ſent ouer about 50 perſons to plant, with little prouiſion; vvhen they came there, they neither applyed themſelues to planting of corne nor taking of fiſh, more then for their preſent uſe, but vvent about to build Caſtles in the Aire, and making of Forts, neg<g ref="char:EOLhyphen"/>lecting the plentifull time of fiſhing. When Winter came their forts vvould not keepe out hunger, and they hauing no proviſion before hand, and wanting both powder and ſhot to kill Deere and Fowle, many vvere ſtarued to death, and the reſt hardly eſcaped. There are foure of his men which eſcaped, now at my plantation, who haue related unto me the whole buſineſſe.</p>
+               <p>Againe, this laſt yeare there went ouer diuerſe at one time, and to one place, with too little prouiſion, ſome of them are dead, yet I cannot heare of any that were meerely ſtarued, except one whoſe name was <hi>Chapman,</hi> a <hi>Londoner,</hi> and whether he was ſtarued or no is uncertaine; but if he were, Gods iuſt iudgement did appeare. For this man (as I am told, by an honeſt man, who came from <hi>London</hi> with him) brought at the leaſt 80 pound worth of prouiſion, and no more but himſelfe and two ſervants, which was ſufficient for at the leaſt 18 moneths, if it had been well uſed. And yet in 5 moneths after his arivall in <hi>New England</hi> he dyed miſerably.</p>
+               <p>Let me tell you a ſtrange thing of this man (I haue it
+<pb n="28" facs="tcp:173250:19"/>but by relation from one of his companions) he pay<g ref="char:EOLhyphen"/>ed for his paſſage, and his mens, and proviſion, ſo that he needed not to haue ſpent any thing untill his arival in New England, yet would he at <hi>Plimoth</hi> (where the ſhip ſtayed too long for him and others, ſpent ſeven or eight pound a week in wine, Tobacco, and whores, and for the maintaining of this expence he daily fet<g ref="char:EOLhyphen"/>ched his proviſion from aboard, and ſold it at a low rate. And when they were at Sea, his Tobacco being ſpent, he gaue uſually ſixe pence for a pipe; he gaue alſo a ſute of cloaths, valewed to be worth 50 ſhillings for ſo much Tobacco as was not worth halfe a crowne. Nay at laſt, as his Comrade told me, he was glad to become ſervant to one of his ſervants. Then his Maſter told him, that if he would work hee would allow him one bisket cake a day, if not he ſhould haue but halfe a cake. He made choice of halfe a cake, vvithout vvork; and ſo a baſe lazie fellow made a la<g ref="char:EOLhyphen"/>mentable end. Where vvas the faultnow, in the men, or the Country?</p>
+               <p>Another obiection which I haue met vvith is this: That there is nothing got or ſaued by ſending men ouer to plant; neither is it beneficiall either to private men, either Aduenturer or Planter, or good for the Common-wealth.</p>
+               <p>For anſwer hereunto, firſt for matter of profite, it is vvell knowne to all the Marchants of the Weſt Country, vvho haue left almoſt all other Trade but this, and yet is growne rich thereby.</p>
+               <p>Secondly, for the Common-wealth conſider theſe things: 1 the great complaint that hath for a long time beene made in <hi>England,</hi> that our land is over<g ref="char:EOLhyphen"/>burthened
+<pb n="29" facs="tcp:173250:19"/>vvith people, and that there is no imploy<g ref="char:EOLhyphen"/>ment for our men; ſo that it is likely they muſt either ſtarue, ſteale, or proue mutinous. And vvhether plan<g ref="char:EOLhyphen"/>tations be a meanes to help this inconvenience or no, I deſire to know?</p>
+               <p>It hath beene likevviſe ſaid unto me, that it benefits the Common-vvealth nothing at all to ſend men ouer vvith proviſion of cloathes victuals, and continuall ſupplies.</p>
+               <p>To that I ſay, let ſuch men as you ſend thither to plant haue proviſion as <hi>Chapman</hi> had for 18 monthes, and if after they cannot liue of themſelues, and be beneficiall either to the common wealth or to them<g ref="char:EOLhyphen"/>ſelues, let them dye <hi>Chapmans</hi> death.</p>
+               <p>Againe, Plantations may be benificiall to the Com<g ref="char:EOLhyphen"/>mon wealth, by the enlargement of his Majeſties Do<g ref="char:EOLhyphen"/>minions.</p>
+               <p>Againe, by the increaſe of Shipping, (which is the ſtrength of a Nation, and that without waſting of our timber which is a commoditie that I feare <hi>England</hi> will find the want off before many yeares paſſe over, for if timber goe to decay as now it doth, we ſhall ſcarce haue any to build or repare, Ships or houſes. Againe tell me whither it would be benifitiall to the Common-wealth to haue all our idle perſons keept to worke and our populous Nation disburthened, and yet to haue them ready to ſerue our King and Countrey vpon all occaſions.</p>
+               <p>Laſtly, tell me whither it would be benifitiall to the Common-wealth to haue all poore people maintain<g ref="char:EOLhyphen"/>ed out of thoſe Artes. And euerie parriſh freed from their weekely paiments to the poore, which if I
+<pb n="30" facs="tcp:173250:20"/>doe make to appeare, then let me be accounted an vn<g ref="char:EOLhyphen"/>worthy fellow. But firſt let me ſet downe an other ob<g ref="char:EOLhyphen"/>iection, which ſeemes to be of great force, and yet in my conceit is like the reſt ſhallow, and that is this.</p>
+               <p>If ſay they there be ſo many plantations, there will be no roome in the Countrey for ſuch Ships as doe come yearely to make voiages, and by this meanes Shippes ſhall lye ſtill and decay Marriners and Fiſher<g ref="char:EOLhyphen"/>men ſhall want imployment, and ſo all will be out of frame if euer we ſhall haue warres. And therefore howſoeuer it may be benefitiall to ſome few perſons, yet it will be hurtfull to the Common-wealth. And conſequently all ſuch as haue any hand in ſuch buſi<g ref="char:EOLhyphen"/>neſſes are euill members in the Common-wealth.</p>
+               <p>I anſwere that if theſe things were throughly exami<g ref="char:EOLhyphen"/>ned by his Maieſtie, the Parliament or Counſell Table, it would plainely appeare, that the moſt of them which keepe ſuch adoe againſt Plantations, are the greateſt enimies to the publique good, and that their ſhew of care for the Commo-wealth is nothing but a colour, for the more cleanely concealing of their vn<g ref="char:EOLhyphen"/>knowne profits. It will alſo appeare, that plantati<g ref="char:EOLhyphen"/>ons are for the publique good and by that meanes there ſhall be more an better cheape Shippes built, and imploied, more Mariners and Fiſhermen keept to worke then now there are, and more people per<g ref="char:EOLhyphen"/>takers of the benefits then now there oth.</p>
+               <p>Which I proue thus, firſt there may be Timber had to build Shippes, and ground for Corne and keeping of Cattel, and all for little or nothing.</p>
+               <list>
+                  <item>Secondly there may bee more men trained vp in fiſhing then now there is, whoſe trade is decaied in
+<pb n="31" facs="tcp:173250:20"/>
+                     <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> and they ready to ſterue for want of imploy<g ref="char:EOLhyphen"/>ments.</item>
+                  <item>Thirdly, there may bee twice ſo much fiſh taken euery yeare as now there is. For Shippes that goe to make Voyages, ſeldome or neuer keep their boats at Sea aboue two Months or ten weekes, for making their Voyage, and I dare maintaine that there is Fiſh enough to be taken, ſeuen Mounths in the yeare, if men be there ready to take all opportunities.</item>
+                  <item>Fourthly, the more Fiſh that is taken the more Shippes there muſt be for the tranſportation of it.</item>
+                  <item>Fiftly, whereas now none doth take the benifite but a few Marchants, not all the Marchants in the Land, no not one of a thowſand.</item>
+               </list>
+               <p>By Plantations, not onely all the Marchants in the Land, but all the people in the Land may partake thereof.</p>
+               <p>And now to ſhew you how the profite may ariſe.</p>
+            </div>
+            <div n="6" type="chapter">
+               <head>CHAP. VI.</head>
+               <argument>
+                  <p>Sheweth, how by adventuring of a <hi>100.</hi> pounds more on leſſe, a man may profite ſo much euery yeare, for <hi>20.</hi> yeares or longer, without any more charge then at the firſt.</p>
+               </argument>
+               <p>I Muſt confeſſe I haue ſtudied no other Art a longe time but the Myſteries of <hi>New Englands</hi> Trade, and I hope at laſt: I haue attained to the underſtanding of the ſecrets of it, which I thinke the Fiſhermen are ſorie for. But it ſhall be no longer concealed, for that I thinke every good ſubiect is bound to preferre the publicke, beforre his owne private good.</p>
+               <pb n="32" facs="tcp:173250:21"/>
+               <p>Firſt therefore, I will ſhew you the charge which every Marchant is at yearely, in ſending their Shipes to fiſh there, and ſo neere as I can the profit they make of ſuch Voyages. Then we will ſee the charge which planters muſt be at, in ſending men over to ſtay there, and the profit they are likely to make, and ſo by com<g ref="char:EOLhyphen"/>paring the one with the other, we ſhall ſee, which is the better and more profitable courſe.</p>
+               <p>A Shipp of 200. Tunn, commonly doth carrie in thoſe Voyages 50. men, theſe men are at no charge but 20. ſhillings a man towards their vittels, neither haue they any waiges, but in leiu thereof they haue one third part of all the fiſh and trayne.</p>
+               <p>Another third part there is allowed the owners of the Shippe for their fraught, and the other third part is allowed for the victuall, ſalte, nets, hookes lines and other implements for taking and making the Fiſh.</p>
+               <p>The charge of victualling (which is vſually for 9. Mounths,) the ſalte &amp;c. doth commonly amount to about 800 pounds, and for that they haue (as I ſaid one third part of the Fiſh) which is, neere 67. tunne, the Shippe being laiden, which will make 1340, Kin<g ref="char:EOLhyphen"/>talls, (at the Market) ſometimes when they come to a good Market they ſell their Fiſh for 44. Rialls a Kin<g ref="char:EOLhyphen"/>tall, and ſo to 36 Rialls, which is the leaſt, but ſay they haue 40, one time with another, and at that rate one third of that Shippes layding doth yeeld 1340 pounds, which they haue for disburſing of 800 pounds nine Mounths.</p>
+               <p>Now take notice that they are but 8 or 10 weekes in taking all their Fiſh, and about one Mounth lon<g ref="char:EOLhyphen"/>ger in making it fit to be Shipped.</p>
+               <pb n="36" facs="tcp:173250:21"/>
+               <p>Which being conſidered, then ſay that ſuch men as are ſent ouer to plant, haue 12 Months prouiſio<g ref="char:cmbAbbrStroke">̄</g>, which wil amount to 1066 pounds 13 ſhillings 4 pence, theſe men ſtay in the Countrey, and doe take the benefit both of the firſt &amp; laſt fiſhing ſeaſon, &amp; all other opor<g ref="char:EOLhyphen"/>tunities, the Fiſhing continuing good, at the leaſt ſea<g ref="char:EOLhyphen"/>uen Moneths in the yeare, though not all at one time: now I hope you will grant that they are as likelie to take two Shippes lading as the other one, which if they doe, one third thereof at the ſame rate will a<g ref="char:EOLhyphen"/>mount to 2680 pounds, the charge you are at being deducted, the profit is 1019 pounds 6 ſhillings 8 pence. Now tell me ſeriouſly, which is the more profitable courſe?</p>
+               <p>Againe conſider, that in all likelihood this Fiſh is to be taken in 5. Moneths, then haue you 7. Moneths more to imploy your men in the Countrey euery yeare, about building of Shippes, cleauing of pipe<g ref="char:EOLhyphen"/>ſtaues, or any other thing, and will that be worth no<g ref="char:EOLhyphen"/>thing?</p>
+               <p>Truely this I will ſay, ſend men ouer but with 18 Moneths prouiſion, and Cattell, and Corne to plant, and other neceſſaries, and they ſhall afford you thus much profit yearely, without euer putting you to more charge if God bleſſe them with health, and you from loſſes, (and I neuer heard of any great loſſe by aduenturing thither) and that you bee fitted with good and vnderſtanding men to ouer ſee the buſi<g ref="char:EOLhyphen"/>neſſe, who is able to direct them.</p>
+            </div>
+            <div n="7" type="chapter">
+               <pb n="34" facs="tcp:173250:22"/>
+               <head>CHAP. VII.</head>
+               <argument>
+                  <p>Sheweth how euery pariſh may be freed of their weekly payments to the poore, by the profits which may bee fetched thence. With certaine Obiections againſt the things contained in this, and the former chapter, with anſwers thereunto.</p>
+               </argument>
+               <p>AND thus haue I ſhewed you what hopes there is of profit by plantations, yet haue I ſhewed you no other meanes to raiſe it, but by fiſh and timber. I would not haue you ſay there is nothing elſe in the Country to make any benefite of; for I aſſure you it is well knowne to my ſelfe, and o<g ref="char:EOLhyphen"/>thers who haue beene there, that there are diverſe other good things there to be had; but I doe not loue to ſpeake of all at one time, but to reſerue ſome, to ſtop the mouths of ſuch prating coxcombs as will ne<g ref="char:EOLhyphen"/>uer be ſatisfied with any reaſon, but will alwaies ca<g ref="char:EOLhyphen"/>vill though to little purpoſe.</p>
+               <p>And me thinks I heare ſome ſuch people buzzing in ſome other obiections, and bidding me ſtay, and not fiſh before the net, for there are many lets, as theſe; There are many ſhips goe, that makes not ſo good voyages as I ſpeake of; for they are ſo long beaten in their paſſage, or on the coaſt, that the beſt of the fiſhing is paſt before they be there.</p>
+               <p>To that I anſwer, I ſpeak not what euery ſhip doth, but what ſome doe, and all others may doe, if they be in the Country to take all opportunities.</p>
+               <p n="2">2 Obict. That it is not poſſible to make Planta<g ref="char:EOLhyphen"/>tions
+<pb n="35" facs="tcp:173250:22"/>ſo publicke a buſineſſe, as that it ſhould redound to the benefit of all the Kings Subiects. And againe that there will never be ſo much mony raſed as to eſta<g ref="char:EOLhyphen"/>bliſh ſuch Plantations, for that moſt men in this age reſpects their own profit 100 times more then the publicke good; and their hearts are ſo glewed to the world, that you ſhall as ſoone hang them as draw any thing from them, though it be to never ſo charitable an uſe. And if it ſhould be by way of command<g ref="char:EOLhyphen"/>ment, it would be a grievance not to be endured.</p>
+               <p>But I would aske ſuch men whether they be ſo void of charity, as that they will not doe themſelues good, becauſe ſome others ſhall haue ſome by it alſo? And whether they will be grieued at a man for ſhewing of them how, by the disburſing of 20 ſhillings, they ſhall haue 20 ſhillings a year for ſeuen, ten or twenty years, and perhaps for euer?</p>
+               <p>My deſire is not that any ſhould be compelled. One<g ref="char:EOLhyphen"/>ly this I could wiſh, that euery pariſh would adventure ſo much as they pay weekly to the reliefe of the poore (which is no great matter.) And ſo euery ſhire by it ſelfe, would ſend ouer men to plant. And if after 18 moneths they ſhall not yearely returne ſo much pro<g ref="char:EOLhyphen"/>fits continually as will keep their poore, and eaſe their purſes (prouided alwaies, as I ſaid before, that they ſend ſuch men as are fit, and that the Iuſtices of eue<g ref="char:EOLhyphen"/>ry Shire be carefull to appoint ſuch a man to be their Captaine and Director as is honeſt, and of good vn<g ref="char:EOLhyphen"/>derſtanding, and that God bleſſe them from loſſes,) will I be contented to ſuffer death.</p>
+               <p>And yet let me tell you, that if it ſhould pleaſe God, that once in ſeuen yeares a ſhip ſhould bee caſt
+<pb n="34" facs="tcp:173250:23"/>away (which is more then hath beene uſuall, for I dare ſay, that for euery ſhip that is caſt away in thoſe voyages, there is 100 which commeth ſafe) yet it is but that yeares profite loſt, and perhaps not halfe.</p>
+               <p>Another obiection may be this, That all men are not Fiſhermen, and that it is not ſo eaſie a thing to take fiſh, as I make it.</p>
+               <p>To that I anſwer, That take a ſurvey of all the men that goeth in theſe voyages, and there ſhall not bee found one third of them that are meerly fiſhermen, and no other Trades.</p>
+               <p>Nay, I know many ſhip-Companies, that haue amongſt them houſe-Carpenters, Maſons, Smiths, Taylors, Shooemakers, and ſuch like, and in deed it is moſt fit they ſhould be ſuch: and I ſaw by experi<g ref="char:EOLhyphen"/>ence, that divers who were never at Sea before this yeare, proued very good fiſhermen: but I could wiſh that euer a fiſt part of a Company be Fiſhermen, and the reſt will quickly be trained up, and made skilfull.</p>
+               <p>I would to God that ſome one Shire, or more, would begin this godly and profitable courſe. For certainely, God hath created all for the uſe of man, and nothing hath he created in vayne.</p>
+               <p>And if wee will endure povertie in <hi>England</hi> will<g ref="char:EOLhyphen"/>fully, and ſuffer ſo good a Countrey as this is to lye waſt, I am perſwaded wee are guiltie of a greivous finne againſt God, and ſhall never be able to an<g ref="char:EOLhyphen"/>ſwer it.</p>
+               <p>I could alſo wiſh, that the Lords both ſpirituall and temporall, the Knights and others to whome God hath given abundance of theſe outward things, would (for the honour of God, the comfort of the
+<pb n="37" facs="tcp:173250:23"/>poore of our Land) ioyne together, and by a voluntary contribution rayſe a ſumme of money, and imploy it this way: And that the profites might goe to the maintaining of poore children, and trayning them up in this courſe, by which they may be kept from begging and ſtealing.</p>
+            </div>
+            <div n="8" type="chapter">
+               <head>CHAP. VIII.</head>
+               <argument>
+                  <p>Containes certaine directions for all priuate perſons that intends to goe into New-England to plant.</p>
+               </argument>
+               <p>NExt unto this I could wiſh, that euery priuate man that hath a deſire this way, would con<g ref="char:EOLhyphen"/>ſider theſe things which I wil heere ſet downe before he goe too farre, leſt he depriue himſelfe of the profite I haue ſhewed may be had, and be one of thoſe that repent when it is too late, and ſo bring mi<g ref="char:EOLhyphen"/>ſery upon himſelfe, and ſcandalize the Country, as others haue done.</p>
+               <list>
+                  <item n="1">1. That it is a Countrey, where none can liue ex<g ref="char:EOLhyphen"/>cept he either labour himſelfe, or be able to keepe others to labour for him.</item>
+                  <item n="2">2. If a man haue a wife and many ſmall children, not to come there, except for every three loyterers, he haue one worker; which if he haue, he may make a ſhift to liue, and not ſtarue.</item>
+                  <item n="3">3. If a man haue but as many good labourers as loyterers, he ſhall liue much better there then in any place I know.</item>
+                  <item n="4">4. If all be labourers, and no children, then let
+<pb n="38" facs="tcp:173250:24"/>him not feare, but to doe more good there in ſeuen yeares then in England in twenty.</item>
+                  <item n="5">5. Let no man goe without 18 moneths prouiſion, ſo ſhall he take the benefit of two ſeaſons before his proviſion be ſpent.</item>
+                  <item n="6">6. Let as many plant together as may be, for you will finde that very comfortable, profitable and ſe<g ref="char:EOLhyphen"/>cure.</item>
+               </list>
+               <trailer>FINIS.</trailer>
+               <pb facs="tcp:173250:24"/>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
